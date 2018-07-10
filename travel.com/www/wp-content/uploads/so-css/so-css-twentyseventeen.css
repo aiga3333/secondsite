@@ -1,0 +1,74 @@
+.entry-content {
+  margin-top: -190px;
+  margin-bottom: -100px;
+  font-size: 21px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.entry-title {
+  visibility: hidden;
+}
+
+.post-edit-link {
+  visibility: hidden;
+}
+
+.site-branding {
+  height: 120px;
+  margin-top: -30px;
+}
+
+hr {
+  background-color: #a5cc00;
+  height: 2px;
+}
+
+.site-title,
+.site-title a {
+  color: #a5cc00;
+}
+
+#masthead 
+.wrap {
+  margin-left: 2px;
+}
+
+#top-menu.menu {
+  text-align: right;
+  margin-right: -350px;
+}
+
+#post-8
+.wrap {
+  padding-top: 50px;
+}
+
+.page-one-column.panel-content.wrap {
+  max-width: 1000px;
+}
+
+.slider-title {
+  color: #ffffff;
+}
+
+.slider-subtitle {
+  color: #ffffff;
+}
+
+.slide-desc {
+  color: #ffffff;
+  font-size: 100px;
+  text-transform: uppercase;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#panel1.twentyseventeen-panel.post-2.page.type-page.status-publish.hentry {
+  border-top-color: #ffffff;}
+
+.panel-content {
+  margin-bottom: 25px;
+}

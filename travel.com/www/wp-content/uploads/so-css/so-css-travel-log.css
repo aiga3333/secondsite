@@ -1,0 +1,73 @@
+a {
+  font-size: 18px;
+}
+
+p {
+  font-style: italic;
+  text-align: left;
+  text-indent: 30px;
+  background-color: #ffffff;
+  padding: 0px;
+  margin: 0px;
+}
+
+.site-description {
+  background-color: #ffffff;
+  display: inline;
+  text-align: left;
+}
+
+.travel-site-bottom-footer.clearfix {
+  background-color: #ffffff;
+}
+
+.copy-right-footer {
+  background-color: #ffffff;
+}
+
+#footer.footer-widget-area.travel-site-footer.clearfix {
+  background-color: #ffffff;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 0px;
+}
+
+#post-8.post-8.page.type-page.status-publish.hentry {
+  background-color: #fffcfc;
+  margin: 0px;
+  padding: 0px;
+}
+
+.travel-copyright {
+  background-color: #ffffff;
+}
+
+.entry-footer {
+  background-color: #ffffff;
+}
+
+.slider-36.slide-37 {
+  background-color: #fffcfc;
+}
+
+.header-main-menu {
+  margin: 35px;
+}
+
+#travel-log-static-content.travel-log-static-page-content {
+  padding: 10px;
+}
+
+.ml-slider-3-8-1.metaslider.metaslider-flex.metaslider-36.ml-slider {
+  padding: 0px;
+}
+
+.caption {
+  text-align: center;
+}
+
+.responsive-tabs {
+  display: inline;
+}

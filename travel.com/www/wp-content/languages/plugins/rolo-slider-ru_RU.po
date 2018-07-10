@@ -1,0 +1,1106 @@
+# Translation of Plugins - Rolo Slider - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Rolo Slider - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-17 14:16:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Rolo Slider - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "PressFore"
+msgstr "PressFore"
+
+#. Description of the plugin/theme
+msgid "Very Simple to use images slider for WordPress"
+msgstr "Простой в использовании слайдер изображений для WordPress"
+
+#. #-#-#-#-#  rolo-slider-code.pot (Rolo Slider 1.0.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  rolo-slider-code.pot (Rolo Slider 1.0.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://pressfore.com"
+msgstr "http://pressfore.com"
+
+#: pages/dashboard.php:69
+msgid "If you want even more controll and options, you can extend Rolo Slider with available addons."
+msgstr "Если вы хотите еще больше настроек, вы можете расширить Rolo Slider с помощью доступных аддонов."
+
+#: pages/dashboard.php:54
+msgid "In this update we have basically rewritten some parts of the code from scratch, and refactored the rest of the code for better performance."
+msgstr "В этом обновлении мы оптимизировали некоторые части кода с нуля и реорганизовали остальную часть кода для повышения производительности."
+
+#: pages/dashboard.php:52
+msgid "Optimized And Refactored Code"
+msgstr "Оптимизированный и обновленный код"
+
+#: pages/dashboard.php:49
+msgid "Slider options are organized into tabs and options UI is improved."
+msgstr "Настройки слайдера организованы на вкладках и настройки пользовательского интерфейса."
+
+#: pages/dashboard.php:47
+msgid "Improved Options UI"
+msgstr "Улучшенный интерфейс"
+
+#: pages/dashboard.php:44
+msgid "Ken Burns Now Works With Responsive Images Layout!"
+msgstr "Кен Бернс теперь работает с макетом \"Адаптивные изображения\""
+
+#: pages/dashboard.php:42
+msgid "Extended Ken Burns Support"
+msgstr "Поддержка расширенного Ken Burns"
+
+#: pages/dashboard.php:39
+msgid "This release also brings probably long awaited options for setting text and background color for slider buttons. Pretty neat, right."
+msgstr "В этой версии представлены долгожданные варианты установки текста и цвета фона для кнопок ползунка. Довольно аккуратно и правильно."
+
+#: pages/dashboard.php:37
+msgid "Buttons hovers"
+msgstr "Наведение на кнопку"
+
+#: pages/dashboard.php:34
+msgid "You are just starting with Rolo Slider, or you just want to start with slider right away? No problem, with new Demo Data import page you can now import demo sliders which are available on our demo page with a single click of a mouse."
+msgstr "Вы хотите начать работу с Rolo Slider сразу? Уведомляем Вас о том, что на новой странице импорта ДЕМО данных, вы можете импортировать готовые ДЕМО слайдеры буквально в один клик. ДЕМО слайдеры доступны на нашей демонстрационной странице."
+
+#: pages/dashboard.php:32
+msgid "Demo Import"
+msgstr "ДЕМО импорт"
+
+#: pages/dashboard.php:29
+msgid "With newly added Import and Export options, now you will be able to export sliders from your existing projects and to import them on some other WordPress installation in just few clicks. Time and effort needed to start with new project is now brought down to a bare minimum!"
+msgstr "С новыми настройками импорта и экспорта вы можете экспортировать слайдеры из существующих проектов, а так же импортировать их на другие ваши проекты (сайты) WordPress. Время и усилия, необходимые для начала нового проекта, теперь сводятся к минимуму!"
+
+#: pages/dashboard.php:27
+msgid "Import / Export option"
+msgstr "Настройки Импорт/Экспорт-a"
+
+#: pages/dashboard.php:24
+msgid "This is major and finally stable release of Rolo Slider plugin, which also brings some major improvements. Beside refactored slider code, slider options are now organized in tabs which greatly improves user experience, and also we added tooltips for explaining key options."
+msgstr "Это основной и, наконец, стабильный релиз плагина Rolo Slider, который также приносит некоторые существенные улучшения. Помимо рефакторизованного кода слайдера теперь отображаются вкладки, которые значительно улучшают пользовательский интерфейс, а также добавлены всплывающие подсказки для объяснения ключевых параметров."
+
+#: pages/dashboard.php:23
+msgid "What's New In 1.0.0"
+msgstr "Что нового в версии 1.0.0"
+
+#: pages/addons.php:58
+msgid "WooCommerce Products Slider is Rolo Slider extension. It allows displaying WooCommerce products over two layouts. First one will allow you to search through exising products in order to select ones which you want. Other layout will allow you to dynamicly display desired amount of latest products. Beside that you can also set layout title, category and excerpt colors, and selection can be made based on selected product category."
+msgstr "WooCommerce Products Slider - это расширение Rolo Slider. Оно позволяет отображать товары WooCommerce по двум макетам. Вы можете выполнять поиск продуктов, чтобы выбрать те, которые вам необходимы. Другая компоновка позволит вам динамически отображать желаемое количество последних продуктов. Кроме того, вы можете указать цвета, названия и цвета цитат, а выбор можно сделать на основе выбранной категории продукта."
+
+#: pages/addons.php:51
+msgid "Posts Slider is Rolo Slider extension. It allows displaying blog posts over two layouts. First one will allow you to search through published posts in order to select ones which you want. Other layout will allow you to dynamicly display desired amount of latest blog posts. Beside that you can also set layout title, category and excerpt colors, and selection can be made based on selected category."
+msgstr "Posts Slider - расширение Rolo Slider. Оно позволяет отображать сообщения в блоге по двум макетам. Вы сможете найти опубликованные записи, чтобы выбрать те, которые вам необходимы для отображения. Другая компоновка позволит вам динамически отображать желаемое количество последних постов в блоге. Так же вы можете установить цвета заголовка, категории и цитат, а выбор можно сделать на основе выбранной категории."
+
+#: pages/addons.php:37
+msgid "Rolo Slider Controller Addon gives you option to change ken burns effect direction per slide, along with image zooming ratio, image moving factor in px, fade to image option and full height option for slider. 2 New Transitions are also available."
+msgstr "Rolon Slider Controller Addon дает вам возможность изменить направление эффекта плавного увеличения в слайде вместе с коэффициентом масштабирования изображения и коэффициентом перемещения изображения в пикселях. Присутствуют параметры: fade to image(плавная смена изображений), установка полной высотой для слайдера. Так же доступны эффекты новых переходов."
+
+#: pages/addons.php:28
+msgid "Bundle Addon"
+msgstr "Bundle Addon"
+
+#: pages/addons.php:23
+msgid "Addons List:"
+msgstr "Список аддонов:"
+
+#: pages/addons.php:18 pages/dashboard.php:18 pages/dashboard.php:68
+msgid "Addons"
+msgstr "Аддоны"
+
+#: pages/addons.php:12
+msgid "Extend Rolo Slider with those handy addons."
+msgstr "Расширьте Rolo Slider с помощью этих удобных дополнений."
+
+#: pages/addons.php:9
+msgid "Rolo Slider Addons"
+msgstr "Аддоны Rolo Slider"
+
+#: pages/about.php:47 pages/dashboard.php:64
+msgid "You can modify slider settings easily with just a few clicks of the mouse you can have eye catching slider. Plenty of options and customization are available."
+msgstr "Вы можете легко изменять настройки слайдера всего за несколько кликов мыши. Доступно множество опций и настроек."
+
+#: pages/about.php:46 pages/dashboard.php:63
+msgid "Customization"
+msgstr "Кастомизация"
+
+#: pages/about.php:44 pages/dashboard.php:61
+msgid "Rolo is very easy to use, with it's native user interface you can manage to create advanced slider without hassle or trouble. Rolo is working out of the box, and with minimal effort you can achieve maximal results."
+msgstr "Rolo очень прост в использовании, с его собственным пользовательским интерфейсом вы можете создать продвинутый слайдер без хлопот или проблем. Rolo работает из коробки, и с минимальными усилиями вы можете достичь максимальных результатов."
+
+#: pages/about.php:43 pages/dashboard.php:60
+msgid "Easy To Use"
+msgstr "Легко использовать"
+
+#: pages/about.php:42 pages/dashboard.php:59
+msgid "Features"
+msgstr "Возможности"
+
+#: pages/about.php:37
+msgid "You can now select the background color and text color for both buttons on global level."
+msgstr "Теперь вы можете выбрать цвет фона и цвет текста для обеих кнопок на глобальном уровне."
+
+#: pages/about.php:35
+msgid "Buttons Style:"
+msgstr "Стиль кнопки:"
+
+#: pages/about.php:32
+msgid "You can also choose to show the transparent background for captions on the current slide. This can be applied per slide, and it will affect the background color of each layer like title, subtitle and description. If this option is checked it will ignore the background color, leaving only the text color above the image."
+msgstr "Вы также можете выбрать прозрачный фон для титров на текущем слайде. Это можно применить к слайду, и это повлияет на цвет фона каждого слоя, например название, субтитры и описание. Если этот параметр установлен, он игнорирует цвет фона, оставляя только текст над изображением."
+
+#: pages/about.php:30
+msgid "Transparent Captions Per Slide:"
+msgstr "Прозрачные титры в слайде:"
+
+#: pages/about.php:27
+msgid "You can now use the global caption options to set background color for catpions - slide layers like title, subtitle and description."
+msgstr "Теперь вы можете использовать глобальные параметры заголовка для установки цвета фона для титров - слоев слайдов, таких как название, подзаголовок и описание."
+
+#: pages/about.php:25
+msgid "New Caption options are here:"
+msgstr "Новые настройки надписи:"
+
+#: pages/about.php:22
+msgid "What's New In 0.4"
+msgstr "Что нового в 0.4"
+
+#: pages/about.php:18 pages/addons.php:19 pages/dashboard.php:19
+msgid " Propose a feature"
+msgstr "Предложить функцию"
+
+#: pages/about.php:16 pages/addons.php:16 pages/dashboard.php:16
+msgid "Support"
+msgstr "Поддержка"
+
+#: pages/about.php:12 pages/dashboard.php:12
+msgid "Rolo Slider is Best Responsive Slider for creating stunning slides with ken burns effect and animated layers. Add images, heading ,subheading, description and buttons inside each slide. Select the entrance/exit animation for each layer, and edit slides and options inside simple to use native user interface."
+msgstr "Rolo Slider - лучший адаптивный слайдер для создания потрясающих слайдов с эффектом плавного увеличения и анимированными слоями. Добавьте изображения, заголовок, подзаголовок, описание и кнопки внутри каждого слайда. Выберите анимацию входа / выхода для каждого слоя. Отредактируйте слайды и параметры внутри простого для использования собственного пользовательского интерфейса."
+
+#. #-#-#-#-#  rolo-slider-code.pot (Rolo Slider 1.0.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: pages/about.php:9 pages/dashboard.php:9
+msgid "Rolo Slider"
+msgstr "Rolo Slider"
+
+#: options/sections/08.banners.php:51
+msgid "Get Our Best Multipurpose Theme For Startups And Creatives"
+msgstr "Получите нашу лучшую многоцелевую тему для стартапов и сайт визиток"
+
+#: options/sections/08.banners.php:35
+msgid "Check Our Themes"
+msgstr "Посмотреть наши темы"
+
+#: options/sections/07.buttons.php:108
+msgid "2nd Button Hover Background Color"
+msgstr "Цвет фона 2-й кнопки"
+
+#: options/sections/07.buttons.php:100
+msgid "2nd Button Hover Text Color"
+msgstr "Цвет текста при наведении 2-й кнопки"
+
+#: options/sections/07.buttons.php:92
+msgid "2nd Button Text Color"
+msgstr "Цвет текста 2-й кнопки"
+
+#: options/sections/07.buttons.php:84
+msgid "2nd Button Background Color"
+msgstr "Цвет фона 2-й кнопки"
+
+#: options/sections/07.buttons.php:76
+msgid "1st Button Hover Background Color"
+msgstr "Цвет фона при наведении 1-й кнопки"
+
+#: options/sections/07.buttons.php:68
+msgid "1st Button Hover Text Color"
+msgstr "Цвет текста кнопки при наведении 1-й кнопки"
+
+#: options/sections/07.buttons.php:60
+msgid "1st Button Text Color"
+msgstr "Цвет текста 1-й кнопки"
+
+#: options/sections/07.buttons.php:52
+msgid "1st Button Background Color"
+msgstr "Цвет фона 1-й кнопки"
+
+#: options/sections/07.buttons.php:35
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: options/sections/06.captions.php:61
+msgid "Text color for layer  captions -  title, subtitle and description."
+msgstr "Цвет текста для слоя - название, подзаголовок и описание."
+
+#: options/sections/06.captions.php:60
+msgid "Captions Text Color"
+msgstr "Цвет текста подписи"
+
+#: options/sections/06.captions.php:52
+msgid "Background color for layer captions - title, subtitle and description."
+msgstr "Цвет фона для надписей - название, подзаголовок и описание."
+
+#: options/sections/06.captions.php:51
+msgid "Captions Background Color"
+msgstr "Цвет фона подписи "
+
+#: options/sections/06.captions.php:34
+msgid "Captions"
+msgstr "Титры"
+
+#: options/sections/05.pagination.php:87
+msgid "Color of the currently active circle of slider pagination."
+msgstr "Цвет активного круга (точки навигации) слайдера."
+
+#: options/sections/05.pagination.php:86
+msgid "Active Circle Color"
+msgstr "Цвет активной точки"
+
+#: options/sections/05.pagination.php:77
+msgid "Cirles Color"
+msgstr "Точки навигации"
+
+#: options/sections/05.pagination.php:52
+msgid "Display or hide circle pagination located at the bottom of the slider."
+msgstr "Отобразить или скрыть точки(навигацию по слайдам), расположенные в нижней части слайдера."
+
+#: options/sections/05.pagination.php:51
+msgid "Circle Pagination"
+msgstr "Навигационные точки"
+
+#: options/sections/05.pagination.php:34
+msgid "Pagination"
+msgstr "Навигация"
+
+#: options/sections/04.arrows.php:105
+msgid "Arrow holder background when it is hovered with a mouse."
+msgstr "Фон навигационной стрелки при наведении курсора мыши."
+
+#: options/sections/04.arrows.php:104
+msgid "Hover Icon Background"
+msgstr "Фон иконки при наведении"
+
+#: options/sections/04.arrows.php:93
+msgid "Arrow color when it is hovered with a mouse."
+msgstr "Цвет навигационной стрелки при наведении"
+
+#: options/sections/04.arrows.php:92
+msgid "Hover Icon Color"
+msgstr "Цвет иконки при наведении"
+
+#: options/sections/04.arrows.php:81
+msgid "Background color of the circle/square that holds the icon."
+msgstr "Цвет фона круга/квадрата, который содержит иконку."
+
+#: options/sections/04.arrows.php:80
+msgid "Icon Background Color"
+msgstr "Цвет фона иконки"
+
+#: options/sections/04.arrows.php:72
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: options/sections/04.arrows.php:51
+msgid "Icon Style"
+msgstr "Стили иконок"
+
+#: options/sections/04.arrows.php:34
+msgid "Arrows"
+msgstr "Навигационные стрелки"
+
+#: options/sections/03.autoplay.php:93
+msgid "Stop the autoplay when mouse enters the screen/phone area."
+msgstr "Остановить автозапуск, когда курсор мыши наводится в области слайдера, экрана, телефона."
+
+#: options/sections/03.autoplay.php:92
+msgid "Autoplay Stop"
+msgstr "Автозапуск стоп"
+
+#: options/sections/03.autoplay.php:77
+msgid "Delay between slides (in ms)."
+msgstr "Задержка между слайдами (в мс)."
+
+#: options/sections/03.autoplay.php:76
+msgid "Autoplay Delay"
+msgstr "Задержка автозапуска"
+
+#: options/sections/03.autoplay.php:34 options/sections/03.autoplay.php:51
+msgid "Autoplay"
+msgstr "Автозапуск"
+
+#: options/sections/02.general.php:155
+msgid "Mouse Icon Color"
+msgstr "Цвет иконки мыши"
+
+#: options/sections/02.general.php:141 options/sections/03.autoplay.php:63
+#: options/sections/03.autoplay.php:105 options/sections/05.pagination.php:64
+msgid "Off"
+msgstr "Выкл"
+
+#: options/sections/02.general.php:135 options/sections/03.autoplay.php:57
+#: options/sections/03.autoplay.php:100 options/sections/05.pagination.php:58
+msgid "On"
+msgstr "Вкл"
+
+#: options/sections/02.general.php:129
+msgid "You can choose to show the icon of the scrolling mouse."
+msgstr "Вы можете выбрать иконку прокручивающейся мыши."
+
+#: options/sections/02.general.php:128
+msgid "Show Mouse Icon"
+msgstr "Показать иконку мыши"
+
+#: options/sections/02.general.php:114
+msgid "Slide stransition speed, determines how fast will slides animate/scroll."
+msgstr "Скорость перехода слайда, определяет, как быстро будет скользить анимация/прокрутка."
+
+#: options/sections/02.general.php:113
+msgid "Slider Speed"
+msgstr "Скорость слайдера"
+
+#: options/sections/02.general.php:99
+msgid "Set the slider height. Note this will not apply to responsive images layout as Responsive images layout is taking the height of the tallest image. You can read more in our <a href=\"https://wordpress.org/plugins/rolo-slider/faq/\">FAQ section</a>"
+msgstr "Установите высоту слайдера. Обратите внимание, что это не относится к макету адаптивных изображений, поскольку маска рекурсивных изображений занимает высоту самого высокого изображения. Дополнительную информацию можно найти в разделе <a href=\"https://wordpress.org/plugins/rolo-slider/faq/\">FAQ</a>"
+
+#: options/sections/02.general.php:98
+msgid "Slider Height"
+msgstr "Высота слайдера"
+
+#: options/sections/02.general.php:87
+msgid "No"
+msgstr "Нет"
+
+#: options/sections/02.general.php:83
+msgid "Yes"
+msgstr "Да"
+
+#: options/sections/02.general.php:77
+msgid "Force the slider to take full width covering the width of the current screen."
+msgstr "Приведите слайдер к полной ширине, покрывающей ширину текущего экрана."
+
+#: options/sections/02.general.php:76
+msgid "Force Full Width"
+msgstr "Полная ширина"
+
+#: options/sections/02.general.php:64
+msgid "Choose animation that will be applied to slides transition."
+msgstr "Выберите анимацию, которая будет применена к переходу слайдов."
+
+#: options/sections/02.general.php:63
+msgid "Slide Transition"
+msgstr "Плавная прокрутка"
+
+#: options/sections/02.general.php:54
+msgid "Fade Up"
+msgstr "Плавное затухание"
+
+#: options/sections/02.general.php:34
+msgid "General Options"
+msgstr "Главные настройки"
+
+#: options/sections/01.layout.php:68
+msgid "Select Slider Layout"
+msgstr "Выберите макет слайдера"
+
+#: import/parsers/wxr-regex.php:60 import/parsers/wxr-simple-xml.php:36
+#: import/parsers/wxr-simple-xml.php:41 import/parsers/wxr-xml.php:41
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Это не файл WXR, он отсутствует или недействительный номер версии WXR"
+
+#: import/parsers/wxr-parser.php:39
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Подробности показаны выше. Импортер попытается снова запустить парсер..."
+
+#: import/parsers/wxr-parser.php:38 import/parsers/wxr-simple-xml.php:24
+#: import/parsers/wxr-simple-xml.php:32
+msgid "There was an error when reading this WXR file"
+msgstr "При чтении файла WXR произошла ошибка"
+
+#: import/importer.php:800
+msgid "Remote file is too large, limit is %s"
+msgstr "Файл слишком большой, ограничение -%s"
+
+#: import/importer.php:794
+msgid "Zero size file downloaded"
+msgstr "Загружен файл с нулевым размером"
+
+#: import/importer.php:789
+msgid "Remote file is incorrect size"
+msgstr "Файл имеет неправильный размер"
+
+#: import/importer.php:782
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер ответил на ошибку %1$d %2$s"
+
+#: import/importer.php:776
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: import/importer.php:731
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: import/importer.php:718
+msgid "Fetching attachments is not enabled"
+msgstr "Захват вложений не включен"
+
+#: import/importer.php:654
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Элемент меню пропущен из-за недействительного слага(ярлыка) меню: %s"
+
+#: import/importer.php:647
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Элемент меню пропущен из-за отсутствия слага(ярлыка) меню"
+
+#: import/importer.php:481
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: import/importer.php:419
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+#: import/importer.php:382
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не удалось импортировать &#8220;%s&#8221;: недопустимый тип записи %s"
+
+#: import/importer.php:291 import/importer.php:515
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: import/importer.php:238
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Не удалось создать нового пользователя для %s. эти записи будут отнесены к текущему пользователю."
+
+#: import/importer.php:179
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Не удалось импортировать автора %s. Эти записи будут отнесены к текущему пользователю."
+
+#: import/importer.php:153
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Данный файл WXR (версия %s) может не поддерживаться этой версией импортера. Пожалуйста, подумайте об обновлении."
+
+#: import/importer.php:137
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Файл экспорта не найден в <code>%s</code>. Вероятно, это вызвано проблемой разрешений."
+
+#: import/importer.php:76
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, повторите попытку."
+
+#: import/import-hooks.php:277
+msgid "Import Rolo Slider"
+msgstr "Импорт Rolo Slider"
+
+#: import/import-hooks.php:130 import/importer.php:75 import/importer.php:84
+#: import/importer.php:132 import/importer.php:136 import/importer.php:145
+msgid "Sorry, there has been an error."
+msgstr "Извините, произошла ошибка."
+
+#: import/import-hooks.php:103
+msgid "Redirecting..."
+msgstr "Перенаправление..."
+
+#: import/import-hooks.php:102
+msgid "Import successfully finished."
+msgstr "Импорт успешно завершен."
+
+#: import/import-hooks.php:91
+msgid "Upload file and import"
+msgstr "Загрузить файл и импортировать"
+
+#: import/import-hooks.php:85
+msgid "Maximum size: %s"
+msgstr "Максимальный размер: %s"
+
+#: import/import-hooks.php:85
+msgid "Choose a file from your computer:"
+msgstr "Выберите файл с вашего компьютера:"
+
+#: import/import-hooks.php:79
+msgid "Choose a WXR (.xml) slider file to upload, then click Upload file and import."
+msgstr "Выберите файл слайдера WXR (.xml) для загрузки, затем нажмите «Загрузить файл и импортировать»."
+
+#: import/import-hooks.php:78
+msgid "Upload your exported slider(s) to your website."
+msgstr "Загрузите экспортированный слайдер(ы) на свой веб-сайт."
+
+#: import/import-hooks.php:74
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Прежде чем вы сможете загрузить файл импорта, вам необходимо исправить следующую ошибку:"
+
+#: export/exporter.php:191
+msgid "Please select the slider to be exported"
+msgstr "Пожалуйста, выберите слайдер для экспорта."
+
+#: export/exporter.php:133
+msgid "Export All Sliders"
+msgstr "Экспорт всех слайдеров"
+
+#: export/exporter.php:132
+msgid "Export Slider"
+msgstr "Экспорт слайдера"
+
+#: export/export-hooks.php:44
+msgid "Choose Slider(s) to export"
+msgstr "Выберите Слайдер(ы) для экспорта"
+
+#: demo/demo-data.php:309
+msgid "Please select the slider to be imported"
+msgstr "Выберите слайдер, который нужно импортировать."
+
+#: demo/demo-data.php:228
+msgid "Import Demo"
+msgstr "Импорт ДЕМО"
+
+#: demo/demo-data.php:43
+msgid "Please note, this can take few minutes, so you might need to wait for a minute, or two before import process is done."
+msgstr "Обратите внимание, что это может занять несколько минут, поэтому вам необходимо немного подождать, прежде чем процесс импорта будет завершен."
+
+#: demo/demo-data.php:42
+msgid "Import Rolo Demo Sliders"
+msgstr "Импорт ДЕМО Rolo Sliders"
+
+#: core/setup.php:148
+msgid "No Slider found in trash"
+msgstr "В корзине нет слайдера"
+
+#: core/setup.php:147
+msgid "No Slider found"
+msgstr "Не найдено ни одного слайдера"
+
+#: core/setup.php:146
+msgid "View Slider"
+msgstr "Просмотр слайдера"
+
+#: core/setup.php:145
+msgid "All Sliders"
+msgstr "Все слайдеры"
+
+#: core/setup.php:144
+msgid "Edit Slider"
+msgstr "Редактировать слайдер"
+
+#: core/setup.php:143
+msgid "New Slide"
+msgstr "Новый слайд"
+
+#: core/setup.php:142
+msgid "Add Slide"
+msgstr "Добавить слайд"
+
+#: core/setup.php:141
+msgid "Add Slider"
+msgstr "Добавить слайдер"
+
+#: core/setup.php:139
+msgid "Slide"
+msgstr "Слайд"
+
+#: core/metaboxes.php:365
+msgid "WooCommerce Products Slider is Rolo Slider extension. It allows displaying WooCommerce products over two layouts. First one will allow you to search through exising products in order to select ones which you want. Other layout will allow you to dynamicly display desired amount of latest products. Beside ..."
+msgstr "WooCommerce Products Slider - это расширение Rolo Slider. Он позволяет отображать товары WooCommerce по двум макетам. Сначала вы можете выполнять поиск продуктов, чтобы выбрать те, которые вам необходимы. Другая компоновка позволит вам динамически отображать желаемое количество последних продуктов. Рядом ..."
+
+#: core/metaboxes.php:364 pages/addons.php:57
+msgid "Easily create slides showcasing latest products from your WooCommerce shop."
+msgstr "Легко создавайте слайды, демонстрирующие продукты в вашем магазине WooCommerce."
+
+#: core/metaboxes.php:363 pages/addons.php:56
+msgid "WooCommerce Products Slider Addon"
+msgstr "WooCommerce Products Slider Addon"
+
+#: core/metaboxes.php:358
+msgid "Posts Slider is Rolo Slider extension. It allows displaying blog posts over two layouts. First one will allow you to search through published posts in order to select ones which you want. Other layout will allow you to dynamicly display desired amount of latest blog posts. Beside ..."
+msgstr "Posts Slider - расширение Rolo Slider. Оно позволяет отображать записи в блоге по двум макетам. Вы можете найти опубликованные записи, чтобы выбрать те, которые вам необходимы. Другая компоновка позволит вам динамически отображать желаемое количество последних записей в блоге. Рядом..."
+
+#: core/metaboxes.php:357 pages/addons.php:50
+msgid "Create unlimited number of slides showcasing latest posts, or cusom selected posts."
+msgstr "Создавайте неограниченное количество слайдов, демонстрирующих последние записи или кастомные посты."
+
+#: core/metaboxes.php:356 pages/addons.php:49
+msgid "Posts Slider Addon"
+msgstr "Posts Slider Addon"
+
+#: core/metaboxes.php:351 pages/addons.php:44
+msgid "Layer Colors is Rolo Slider extension. It will allow you to set diferent colors for each slide, which is very handy, because you won’t need to adjust slide images or to add some kind of overlay in a situations when there is a image with dominating ..."
+msgstr "Layer Colors - это расширение Rolo Slider. Оно позволит вам устанавливать разные цвета для каждого слайда, что очень удобно, потому что вам не нужно настраивать слайд-изображения или добавлять какие-либо наложения в ситуациях, когда есть изображение с доминирующим..."
+
+#: core/metaboxes.php:350 pages/addons.php:43
+msgid "Offer highly configurable, and professional looking slides without needing to adjust slide images in order to match content colors."
+msgstr "Предлагайте высоко конфигурируемые и профессиональные слайды без необходимости корректировки слайд-изображений, чтобы соответствовать цветам контента."
+
+#: core/metaboxes.php:349 pages/addons.php:42
+msgid "Layer Colors Addon"
+msgstr "Layer Colors Addon"
+
+#: core/metaboxes.php:344
+msgid "Rolo Slider Controller Addon gives you option to change ken burns effect direction per slide, along with image zooming ratio, image moving factor in px, fade to image option and full height option for slider. 2 New Transitions are also available"
+msgstr "Rolon Slider Controller Addon дает вам возможность изменить направление эффекта плавного увеличения на слайд вместе с коэффициентом масштабирования изображения, коэффициентом перемещения изображения в пикселях. Параметры: fade to image(плавное затухание изображения), полная высота для слайдера. Так же доступны новые эффекты переходов"
+
+#: core/metaboxes.php:343 pages/addons.php:36
+msgid "Offer Full Height And Kend Burns Direction Options."
+msgstr "Предлагаем полную высоту слайда и режимы направления плавного увеличения изображения"
+
+#: core/metaboxes.php:342 pages/addons.php:35
+msgid "Controller Addon"
+msgstr "Controller Addon"
+
+#: core/metaboxes.php:338 core/metaboxes.php:345 core/metaboxes.php:352
+#: core/metaboxes.php:359 core/metaboxes.php:366 pages/addons.php:31
+#: pages/addons.php:38 pages/addons.php:45 pages/addons.php:52
+#: pages/addons.php:59
+msgid "Read More"
+msgstr "Читать далее"
+
+#: core/metaboxes.php:337 pages/addons.php:30
+msgid "Rolo Slider Bundle package contain all three Rolo Slider extensions: Layer Colors, Posts Slider and WooCommerce Products Slider. Weather you want additional color settings or to display blog posts or WooCommerce products, this bundle contain it all, for a special price."
+msgstr "Пакет Rollo Slider Bundle содержит все три расширения Rolo Slider: Layer Colors, Slider и WooCommerce Products Slider. Погода вам нужны дополнительные настройки цвета или отображение сообщений в блоге или продуктов WooCommerce, этот комплект содержит все это по специальной цене."
+
+#: core/metaboxes.php:336 pages/addons.php:29
+msgid "Save almost 45% by purchasing the whole bundle"
+msgstr "Сэкономьте почти 45%, купив весь комплект"
+
+#: core/metaboxes.php:335
+msgid "Addons Bundle"
+msgstr "Пакеты дополнений"
+
+#: core/metaboxes.php:309
+msgid "Latest Addons"
+msgstr "Последние аддоны"
+
+#: core/metaboxes.php:273
+msgid "Select/upload multiple screens. Hold CTRL and keep clicking on the images until you do not select them all."
+msgstr "Выберите/загрузите несколько экранов. Удерживайте CTRL и продолжайте нажимать на изображения, пока вы их не выберете."
+
+#: core/metaboxes.php:264
+msgid "\"Responsive Image\" Slider Layout"
+msgstr "Макет слайдера «Адаптивные изображения»"
+
+#: core/metaboxes.php:257
+msgid "Choose to leave caption background transparent around elements."
+msgstr "Выберите, чтобы оставить заголовок фона прозрачным вокруг элементов."
+
+#: core/metaboxes.php:255
+msgid "Transparent Captions"
+msgstr "Прозрачные титры"
+
+#: core/metaboxes.php:250
+msgid "Bottom"
+msgstr "Нижняя часть"
+
+#: core/metaboxes.php:249
+msgid "Middle"
+msgstr "В середине"
+
+#: core/metaboxes.php:248
+msgid "Top"
+msgstr "Сверху"
+
+#: core/metaboxes.php:243
+msgid "Layers Vertical Position"
+msgstr "Вертикальное положение слоев"
+
+#: core/metaboxes.php:238
+msgid "Center"
+msgstr "Центр"
+
+#: core/metaboxes.php:237
+msgid "Right"
+msgstr "Справа"
+
+#: core/metaboxes.php:236
+msgid "Left"
+msgstr "Слева"
+
+#: core/metaboxes.php:233 core/metaboxes.php:245
+msgid "Set the alignment of the element on the picture."
+msgstr "Установите выравнивание элемента на изображении."
+
+#: core/metaboxes.php:231
+msgid "Layers Horizontal Position"
+msgstr "Горизонтальное положение слоев"
+
+#: core/metaboxes.php:223
+msgid "Buttons Animation Value"
+msgstr "Значение анимационной кнопки"
+
+#: core/metaboxes.php:216
+msgid "Buttons Animation Delay"
+msgstr "Задержка анимации на кнопке"
+
+#: core/metaboxes.php:211
+msgid "Set the animation duration."
+msgstr "Установите продолжительность анимации."
+
+#: core/metaboxes.php:209
+msgid "Buttons Animation Duration"
+msgstr "Продолжительность анимации кнопки "
+
+#: core/metaboxes.php:202
+msgid "Set Buttons animation intro."
+msgstr "Установить интро анимации кнопки."
+
+#: core/metaboxes.php:200
+msgid "Buttons Animation"
+msgstr "Анимация кнопки"
+
+#: core/metaboxes.php:195
+msgid "Add button 2 url."
+msgstr "Добавить ссылку для 2-й кнопки"
+
+#: core/metaboxes.php:193
+msgid "Button 2 URL"
+msgstr "Ссылка 2-й кнопки"
+
+#: core/metaboxes.php:188
+msgid "Add button 2 text."
+msgstr "Добавить текст 2-й кнопки"
+
+#: core/metaboxes.php:186
+msgid "Button 2 Text"
+msgstr "Текст 2-й кнопки"
+
+#: core/metaboxes.php:181
+msgid "Add button 1 url."
+msgstr "Добавить ссылку 1-й кнопки"
+
+#: core/metaboxes.php:179
+msgid "Button 1 URL"
+msgstr "Ссылка 1-й кнопки"
+
+#: core/metaboxes.php:174
+msgid "Add button 1 text."
+msgstr "Добавить текст 1-й кнопки"
+
+#: core/metaboxes.php:172
+msgid "Button 1 Text"
+msgstr "Текст 1-й кнопки"
+
+#: core/metaboxes.php:164
+msgid "Description Animation Value"
+msgstr "Значение анимации описания"
+
+#: core/metaboxes.php:157
+msgid "Description Animation Delay"
+msgstr "Задержка анимации описания"
+
+#: core/metaboxes.php:150
+msgid "Description Animation Duration"
+msgstr "Продолжительность анимации описания"
+
+#: core/metaboxes.php:141
+msgid "Description Animation"
+msgstr "Анимация описания"
+
+#: core/metaboxes.php:136
+msgid "Highlight Content/Description."
+msgstr "Выделите содержание/описание."
+
+#: core/metaboxes.php:134
+msgid "Desription"
+msgstr "Описание"
+
+#: core/metaboxes.php:126
+msgid "Subtitle Animation Value"
+msgstr "Значение анимации подзаголовка"
+
+#: core/metaboxes.php:121
+msgid "Set the animation delay ."
+msgstr "Установите задержку анимации."
+
+#: core/metaboxes.php:119
+msgid "Subitle Animation Delay"
+msgstr "Задержка анимации подзаголовка"
+
+#: core/metaboxes.php:112
+msgid "Subitle Animation Duration"
+msgstr "Продолжительность анимации подзаголовка"
+
+#: core/metaboxes.php:103
+msgid "Subitle Animation"
+msgstr "Анимация подзаголовка"
+
+#: core/metaboxes.php:97
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: core/metaboxes.php:91 core/metaboxes.php:128 core/metaboxes.php:166
+#: core/metaboxes.php:225
+msgid "Set the animation starting point from which element will be animated."
+msgstr "Задайте начальную точку анимации, из которой будет анимироваться элемент."
+
+#: core/metaboxes.php:89
+msgid "Title Animation Value"
+msgstr "Значение анимации заголовка"
+
+#: core/metaboxes.php:84 core/metaboxes.php:159 core/metaboxes.php:218
+msgid "Set the animation delay."
+msgstr "Установите задержку анимации."
+
+#: core/metaboxes.php:82
+msgid "Title Animation Delay"
+msgstr "Задержка анимации заголовка"
+
+#: core/metaboxes.php:77 core/metaboxes.php:114 core/metaboxes.php:152
+msgid "Set the animation duration ."
+msgstr "Установите продолжительность анимации."
+
+#: core/metaboxes.php:75
+msgid "Title Animation Duration"
+msgstr "Продолжительность анимации заголовка"
+
+#: core/metaboxes.php:68 core/metaboxes.php:105 core/metaboxes.php:143
+msgid "Set title animation intro."
+msgstr "Задайте анимацию"
+
+#: core/metaboxes.php:66
+msgid "Title Animation"
+msgstr "Анимация заголовка"
+
+#: core/metaboxes.php:60
+msgid "Title"
+msgstr "Заголовок"
+
+#: core/metaboxes.php:54
+msgid "Slide Image."
+msgstr "Изображение слайда"
+
+#: core/metaboxes.php:52
+msgid "Slide Image"
+msgstr "Изображение слайда"
+
+#: core/metaboxes.php:45
+msgid "Remove Slide"
+msgstr "Удалить слайд"
+
+#: core/metaboxes.php:44
+msgid "Add Another Slide"
+msgstr "Добавить еще слайд"
+
+#: core/metaboxes.php:43
+msgid "Slide {#}"
+msgstr "Слайд {#}"
+
+#: core/metaboxes.php:41
+msgid "Add/Remove New Slide"
+msgstr "Добавить/удалить новый слайд"
+
+#: core/metaboxes.php:34 core/metaboxes.php:269 core/setup.php:140
+msgid "Slides"
+msgstr "Слайды"
+
+#: core/metaboxes.php:26 options/sections/02.general.php:50
+msgid "Fade"
+msgstr "Затухание"
+
+#: core/metaboxes.php:25
+msgid "Slide Down"
+msgstr "Слайдом вверх"
+
+#: core/metaboxes.php:24
+msgid "Slide Up"
+msgstr "Слайдом вниз"
+
+#: core/license.php:15
+msgid "Addons Licenses"
+msgstr "Лицензии аддонов"
+
+#: core/interface.php:157 pages/about.php:17 pages/addons.php:17
+#: pages/dashboard.php:17
+msgid "Documentation"
+msgstr "Документация"
+
+#: core/interface.php:105
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: core/interface.php:104 options/sections/01.layout.php:34
+msgid "Layout"
+msgstr "Макет"
+
+#: core/interface.php:103
+msgid "Slider Name"
+msgstr "Имя слайдера"
+
+#: core/interface.php:69 core/interface.php:70
+msgid "Update Slider"
+msgstr "Обновить слайдер"
+
+#: core/interface.php:64 core/interface.php:65
+msgid "Save Slider"
+msgstr "Сохранить слайдер"
+
+#: core/interface.php:56
+msgid "Delete Slider"
+msgstr "Удалить слайдер"
+
+#: core/interface.php:54
+msgid "Move to Trash"
+msgstr "Переместить в корзину"
+
+#: core/interface.php:52
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: cmb2/includes/helper-functions.php:249
+msgid "Save"
+msgstr "Сохранить"
+
+#: cmb2/includes/CMB2_Types.php:907
+msgid "Add or Upload File"
+msgstr "Добавить или загрузить файл"
+
+#: cmb2/includes/CMB2_Types.php:847
+msgid "Add or Upload Files"
+msgstr "Добавить или загрузить файлы"
+
+#: cmb2/includes/CMB2_Types.php:734 cmb2/includes/CMB2_Types.php:782
+msgid "No terms"
+msgstr "Нет условий"
+
+#: cmb2/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr "Добавить ряд"
+
+#: cmb2/includes/CMB2_JS.php:140
+msgid "Select / Deselect All"
+msgstr "Выбрать / Отменить выбор"
+
+#: cmb2/includes/CMB2_JS.php:139 cmb2/includes/CMB2_Types.php:1000
+msgid "Download"
+msgstr "Скачать"
+
+#: cmb2/includes/CMB2_JS.php:138 cmb2/includes/CMB2_Types.php:997
+msgid "File:"
+msgstr "Файл:"
+
+#: cmb2/includes/CMB2_JS.php:137 cmb2/includes/CMB2_Types.php:356
+#: cmb2/includes/CMB2_Types.php:1002
+msgid "Remove"
+msgstr "Удалить"
+
+#: cmb2/includes/CMB2_JS.php:136 cmb2/includes/CMB2_Types.php:983
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Использовать этот файл"
+
+#: cmb2/includes/CMB2_JS.php:129
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Теперь"
+
+#: cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Второй"
+
+#: cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "Минуты"
+
+#: cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Часов"
+
+#: cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Время"
+
+#: cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Выберите время"
+
+#: cmb2/includes/CMB2_JS.php:118 cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "Готово"
+
+#: cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Cегодня"
+
+#: cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "Пред."
+
+#: cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "След."
+
+#: cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Ян, Фв, Март, Апр, Май, Июнь, Июль, Авг, Сен, Окт, Но, Дек"
+
+#: cmb2/includes/CMB2_JS.php:113
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь"
+
+#: cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Вс, Пн, Вт, Ср, Чт, Пт, Сб"
+
+#: cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Вс, Пн, Вт, Ср, Чт, Пт, Сб"
+
+#: cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Воскресенье, Понедельник, Вторник, Среда, Четверг, Пятниц, Суббота"
+
+#: cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+#: cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "Выберите цвет"
+
+#: cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr "По умолчанию"
+
+#: cmb2/includes/CMB2_JS.php:86 cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "Очистить"
+
+#: cmb2/includes/CMB2_Field.php:914 cmb2/includes/CMB2_Field.php:918
+msgid "None"
+msgstr "Ничего"
+
+#: cmb2/includes/CMB2_Field.php:892
+msgid "Remove Group"
+msgstr "Удалить группу"
+
+#: cmb2/includes/CMB2_Field.php:891
+msgid "Add Group"
+msgstr "Добавить группу"
+
+#: cmb2/includes/CMB2_Ajax.php:139
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Не найдено результатов для %s. Просмотреть дополнительную информацию"
+
+#: cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr "Удалить Embed"
+
+#: cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr "Пожалуйста, попробуйте снова"
+
+#: cmb2/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr "Нажмите, чтобы переключить"
+
+#: cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "Для конфигурации Metabox требуется параметр ID"

@@ -1,0 +1,439 @@
+# Copyright (C) 2018 WEN Solutions
+# This file is distributed under the same license as the WS Theme Addons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WS Theme Addons 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 04:50:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WEN Solutions <info@wensolutions.com>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../ws-theme-addons\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: inc/admin/templates/partials/template-features-addons.php:23
+msgid "Enable Instagram Widget"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:39
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-info.php:20
+msgid "Version"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-info.php:32
+#: inc/class-admin-settings.php:27
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-info.php:35
+msgid ""
+"Customizer API for theme options which will help you preview your changes "
+"live and fast."
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-info.php:39
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-info.php:48
+msgid "Import Demo Contents"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-info.php:50
+msgid "Import demo contents data for the theme"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-info.php:53
+msgid "Import Demo"
+msgstr ""
+
+#: inc/admin/templates/settings-page.php:15
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin/templates/settings-page.php:18
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/admin/templates/settings-page.php:25
+msgid "Theme Info"
+msgstr ""
+
+#: inc/admin/templates/settings-page.php:28
+msgid "Features & Addons"
+msgstr ""
+
+#: inc/class-admin-settings.php:63
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/class-admin-settings.php:64
+msgid ""
+"Importing demo will import posts, pages and media files.It will clear all "
+"of your Theme Settings, Widgets and Nav menu Options"
+msgstr ""
+
+#: inc/class-admin-settings.php:65
+msgid "Demo Import Cancelled !"
+msgstr ""
+
+#: inc/class-ws-theme-addons-demo-import.php:84
+msgid "The XML file dummy content is missing."
+msgstr ""
+
+#: inc/class-ws-theme-addons-demo-import.php:154
+msgid "The customizer data JSON file is missing."
+msgstr ""
+
+#: inc/class-ws-theme-addons-demo-import.php:177
+msgid "The JSON file widget content is missing."
+msgstr ""
+
+#: inc/class-ws-theme-addons-demo-import.php:191
+msgid "Sorry, you are not allowed to import."
+msgstr ""
+
+#: inc/importers/class-widget-importer.php:39
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/importers/class-widget-importer.php:77
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/importers/class-widget-importer.php:100
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/importers/class-widget-importer.php:138
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/importers/class-widget-importer.php:216
+msgid "Imported"
+msgstr ""
+
+#: inc/importers/class-widget-importer.php:219
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/importers/class-widget-importer.php:226
+msgid "No Title"
+msgstr ""
+
+#: inc/importers/customizer-import/class-customizer-importer.php:40
+msgid ""
+"The customizer import file is not in a correct format. Please make sure to "
+"use the correct customizer import file."
+msgstr ""
+
+#: inc/importers/customizer-import/class-customizer-importer.php:44
+msgid ""
+"The customizer import file is not suitable for current theme. You can only "
+"import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:126
+#: inc/importers/wordpress-importer/class-wxr-importer.php:135
+#: inc/importers/wordpress-importer/class-wxr-importer.php:186
+#: inc/importers/wordpress-importer/class-wxr-importer.php:190
+#: inc/importers/wordpress-importer/class-wxr-importer.php:199
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:127
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:170
+msgid "All done."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:170
+msgid "Have fun!"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:171
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:191
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:207
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:232
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:258
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:259
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of "
+"this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:261
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually "
+"changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:271
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:274
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:278
+msgid "Submit"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:291
+msgid "Import author:"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:302
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:305
+msgid "as a new user:"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:313
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:315
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:316
+msgid "- Select -"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:366
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:418
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:461
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:510
+#: inc/importers/wordpress-importer/class-wxr-importer.php:732
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:599
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:636
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:698
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:863
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:870
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:938
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1030
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1043
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1048
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1054
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1147
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1154
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1169
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1170
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:44
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:74
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:86
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:91
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:308
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:497
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:28
+msgid "Instagram Photos"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:38
+msgid "Display Your Instagram Photos in Widget Locations"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:47
+msgid "WS Instagram Widget"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:63
+msgid "Widget Title"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:68
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:73
+msgid "Display Layout"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:77
+msgid "2 Column"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:78
+msgid "3 Column"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:79
+msgid "Full Width"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:87
+msgid "Note: "
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:87
+msgid "Full Width Layout displays images in 6 columns"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:91
+msgid "Number of photos to show"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:97
+msgid "Check to Open Image / Link in new Tab/Window"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:101
+msgid "Follow Link text"
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:243
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:247
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:256
+#: inc/modules/widgets/class-instagram-widget.php:273
+#: inc/modules/widgets/class-instagram-widget.php:287
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/modules/widgets/class-instagram-widget.php:311
+msgid "Instagram did not return any images."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WS Theme Addons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wensolutions.com/plugins/ws-theme-addons"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides Additional Features and functionalities for themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WEN Solutions"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wensolutions.com"
+msgstr ""
